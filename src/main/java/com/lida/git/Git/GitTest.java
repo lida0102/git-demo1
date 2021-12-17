@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("我叫lida");
         System.out.println("中国人民万岁");
         System.out.println("我今年18岁");
+        System.out.println("我明年19岁");
     }
 }
